@@ -1,0 +1,41 @@
+.navBarFlex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-decoration: none;
+    margin-top: 15px;
+    padding-bottom: 5px;
+    align-items: center;
+}
+
+
+.logoSizing{
+    width: 8vw;
+}
+
+a{
+    text-decoration: none;
+}
+
+.NavBarText{
+    color: black;
+}
+
+.NavBarText:hover{
+    color:#FA9975;
+}
+
+.flexHorizontal{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+
+.marginsmall{
+    margin: 10px;
+}
+
+.imageSizing{
+    height: 15vw;
+}

@@ -1,0 +1,316 @@
+/*Basics_______________________________
+
+main orange: #FA9975;
+hover orange: #e08767
+main grey: color: #474848;
+
+______________________________________________________________________*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,700;1,500&display=swap');
+
+.App {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.big-cards{
+  width: 30vw;
+  height: 10rem;
+  background-color: #FA9975;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  border-radius: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  cursor: pointer;
+  color: #474848;
+  font-weight: 600;
+}
+
+.biggish-cards{
+  width: 20vw;
+  height: 5rem;
+  background-color: #FA9975;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  border-radius: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  cursor: pointer;
+  color: #474848;
+  font-weight: 600;
+}
+
+.big-cards:hover{
+  background-color: #e08767;
+  transition: background-color 0.2s ease-in;
+}
+
+/*---Home---*/
+.home-c{
+  display: flex;
+}
+
+.home-left{
+  width:40rem;
+}
+
+.home-left h2{
+  font-size: 2.5rem;
+  text-align: left;
+  padding-left: 4.8rem;
+  padding-top: 8rem;
+  margin-top: 0;
+  }
+
+  .home-left-c{
+    background-color: #FA9975;
+    width: 50vw;
+    height: 60vh;
+  }
+
+  .home-right-c{
+    padding-left: 10rem;
+    display: flex;
+    align-items: center;
+  }
+
+  .vethub-c{
+    display: flex;
+    flex-direction: row;
+    padding-left: 4.8rem;
+    padding-right: 4.8rem;
+  }
+
+.vethub-l {
+    /* background: url(vethub_card.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover; */
+    width: 60vw;
+    height: 100vh;
+    text-align: left;
+}
+
+.vethub-l span{
+  display: flex;
+  border-bottom: 1px solid #FA9975;
+  align-items: center;
+}
+
+.vethub-l span h3{
+  color: #FA9975;
+  padding-right: 2rem;
+  width: 10vw;
+}
+
+.vethub-r {
+ text-align: left;
+ padding-left: 8vw;
+}
+
+.vethub-r span{
+  display: flex;
+  font-size: 0.8rem;
+  align-items: center;
+}
+
+.vethub-r span h3{
+ padding-right: 1rem;
+ color: #FA9975;
+}
+
+.vethub-r span p, .vethub-l span p{
+  cursor: pointer;
+ }
+
+.vethub-r h5{
+  font-size: 1.2rem;
+  margin-bottom: 0;
+  font-weight: 400;
+}
+
+.activity-c{
+  display: flex;
+  flex-direction: column;
+  padding-left: 4.8rem;
+  padding-right: 4.8rem;
+}
+
+.activity-nav{
+  display: flex;
+}
+
+.activity-nav a{
+  background-color: #FA9975;
+  border: 2px solid #FA9975;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  margin-right: 3rem;
+  color: #000000;
+}
+
+.activity-nav a:hover, .activity-nav a:focus{
+  background-color: #FFFFFF;
+}
+
+.activity-cards-c{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+  margin-bottom: 5rem;
+}
+
+.activity-card{
+  background-color: #FA9975;
+  border-radius: 1rem;
+  width: 40vw;
+  height: 60vh;
+  text-align: left;
+}
+
+.activity-card h2{
+  padding-left: 2rem;
+  padding-top: 1rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  color: #474848;
+}
+
+.activity-card img{
+  padding-left: 8rem;
+}
+
+.activity-articles-c h3{
+  text-align: left;
+  font-size: 2rem;
+  font-weight: 600;
+  color: #474848;
+}
+
+.activity-articles-c span{
+  display: flex;
+  justify-content: space-between;
+}
+
+.activity-articles-c{
+  margin-bottom: 5rem;
+}
+
+.nutrition-c{
+  padding-right: 4.8rem;
+  padding-left: 4.8rem;
+}
+
+.nutrition-c img{
+  padding-top: 2rem;
+}
+
+.nutrition-c span{
+  width: inherit;
+  text-align: left;
+  padding-left: 5rem;
+}
+
+.nutrition-c p{
+  padding-top: 3rem;
+}
+
+
+.team-card-l{
+  text-align: left;
+  width: 40vw;
+}
+
+.team-card-r{
+  text-align: right;
+  width: 40vw;
+}
+
+.team-card img{
+  padding-bottom: 5rem;
+}
+
+.team h1{
+  color: #FA9975;
+}
+
+.button4paulo{
+  padding: 0.5rem 1rem 0.5rem;
+  margin: 0.5rem 1rem 0.5rem;
+  background-color: rgba(75,192,192,0.2);
+  font-weight: 200;
+  font-size: 1rem;
+  color: rgb(0, 0, 0);
+}
+
+.PositionAbsolute{
+position: absolute;
+height: 50vh;
+left: 18vh;
+top: 35vh;
+}
+
+.PositionAbsolute2{
+  position: absolute;
+height: 50vh;
+left: 60vh;
+top: 35vh;
+  }
+
+
+  .PositionAbsolute3{
+    position: absolute;
+height: 50vh;
+left: 102vh;
+top: 35vh;
+    }
+
+    .PositionAbsolute4{
+      position: absolute;
+height: 50vh;
+left: 145vh;
+top: 35vh;
+      }
+
+      .PositionAbsolute5{
+        position: absolute;
+height: 50vh;
+left: 188vh;
+top: 35vh;
+        }
