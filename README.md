@@ -73,10 +73,22 @@ Chartjs | react-chartjs | react-simple-chatbot | MERN Stack
 
 
 # Contacts
-## Gregory Marklew
-email: goncalvesnuno00@gmail.com
+## Ana Venâncio
+email: 
 <br>
-linkedIn: https://www.linkedin.com/in/gregory-marklew/
+linkedIn: 
+
+# Contacts
+## Kara Keddie
+email: 
+<br>
+linkedIn: 
+
+# Contacts
+## João Monteiro
+email: 
+<br>
+linkedIn: 
 
 ## Paulo Santos
 email: paulo.jorge.ngs@gmail.com
