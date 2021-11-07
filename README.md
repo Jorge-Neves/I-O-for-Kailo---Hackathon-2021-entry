@@ -2,9 +2,13 @@
 
  <a href="https://io-for-kailo-hackathon-2021-frontend.netlify.app/">https://io-for-kailo-hackathon-2021-frontend.netlify.app/</a>
  
-<img src=/Documentation.png alt="LAnding Page for the High Noon Time Tracker web app" />
+<img src=/DocumentationScreenshot2.png alt="Landing Page for Kailo Tracker web app" />
 
-Made by Gregory Marklew and Paulo Santos.
+##Made by 
+Ana Venâncio
+João Monteiro
+Kara Keddie
+Paulo Santos
 
 # Description
 High Noon was the final project of the bootcamp and required us to put into practice all 
