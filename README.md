@@ -44,14 +44,6 @@ This repository holds all of the code relating to the front end portion of the a
 <br>
 https://github.com/Jorge-Neves/High-Noon-API
 
-# Description
-High Noon was the final project of the bootcamp and required us to put into practice all 
-we learned in the course of the 9 week curriculum. To do so we developed a MERN stack
-web application from scratch and we fully deployed it. High Noon is a productivity app
-that was designed with ADHD individuals in mind. This shows in the welcoming UI choices
-that don't overwhelm the user with information nor options.
-
-
 ##REST API
 Along side all the mongoose logic to store information in our database hosted on heroku. This repository also contains the REST api made with Express.js that connects both the front end and the back end.
 
