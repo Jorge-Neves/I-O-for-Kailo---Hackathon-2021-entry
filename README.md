@@ -1,6 +1,6 @@
 # I-O-for-Kailo
 
- <a href="https://io-for-kailo-hackathon-2021-frontend.netlify.app/">https://io-for-kailo-hackathon-2021-frontend.netlify.app/</a>
+
  
 <img src=/DocumentationScreenshot2.png alt="Landing Page for Kailo Tracker web app" />
 
@@ -19,9 +19,8 @@ that don't overwhelm the user with information nor options.
 
 
 # Live Demo
-The final version of this Express based full-stack app 
-is in the following link:
-https://highnoontimetracker.netlify.app/
+A demo of the front end portion of this app is in the following link:
+<a href="https://io-for-kailo-hackathon-2021-frontend.netlify.app/" target="_blank">https://io-for-kailo-hackathon-2021-frontend.netlify.app/</a>
 
 # Front End
 This repository holds all of the code relating to the front end portion of the app. to read about the back end portion access the following link:
