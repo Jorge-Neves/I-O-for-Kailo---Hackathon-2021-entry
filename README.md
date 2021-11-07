@@ -78,13 +78,11 @@ email:
 <br>
 linkedIn: 
 
-# Contacts
 ## Kara Keddie
 email: 
 <br>
 linkedIn: 
 
-# Contacts
 ## João Monteiro
 email: 
 <br>
