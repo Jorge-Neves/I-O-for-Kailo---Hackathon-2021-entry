@@ -20,6 +20,7 @@ that don't overwhelm the user with information nor options.
 
 # Live Demo
 A demo of the front end portion of this app is in the following link:
+</br>
 <a href="https://io-for-kailo-hackathon-2021-frontend.netlify.app/" target="_blank">https://io-for-kailo-hackathon-2021-frontend.netlify.app/</a>
 
 # Front End
