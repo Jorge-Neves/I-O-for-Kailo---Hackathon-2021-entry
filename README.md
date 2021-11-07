@@ -4,7 +4,7 @@
  
 <img src=/DocumentationScreenshot2.png alt="Landing Page for Kailo Tracker web app" />
 
-##Made by 
+## Made by 
 Ana Venâncio
 João Monteiro
 Kara Keddie
