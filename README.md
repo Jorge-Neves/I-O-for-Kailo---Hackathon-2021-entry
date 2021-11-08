@@ -36,19 +36,19 @@ Chartjs | react-chartjs | react-simple-chatbot | MERN Stack
 # Made by 
 
 ## Ana Venâncio
-email: 
+email: avr.venancio@gmail.com
 <br>
-linkedIn: 
+linkedIn: https://www.linkedin.com/in/anavrvenancio/ 
 
 ## Kara Keddie
 email: 
 <br>
-linkedIn: 
+linkedIn: https://www.linkedin.com/in/kara-keddie/
 
 ## João Monteiro
-email: 
+email: jfcm.monteiro@gmail.com
 <br>
-linkedIn: 
+linkedIn: linkedin.com/in/joamonteiro
 
 ## Paulo Santos
 email: paulo.jorge.ngs@gmail.com
