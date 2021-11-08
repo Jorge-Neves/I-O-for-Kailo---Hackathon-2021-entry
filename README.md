@@ -48,7 +48,7 @@ linkedIn: https://www.linkedin.com/in/kara-keddie/
 ## João Monteiro
 email: jfcm.monteiro@gmail.com
 <br>
-linkedIn: linkedin.com/in/joamonteiro
+linkedIn: https://linkedin.com/in/joamonteiro
 
 ## Paulo Santos
 email: paulo.jorge.ngs@gmail.com
