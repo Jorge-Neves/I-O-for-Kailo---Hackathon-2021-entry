@@ -13,6 +13,8 @@ From October 22nd to October 24th Boehringer Ingelheim hosted an online hackatho
 
 Our team named I/O for Kailo chose the following track:
 
+<img src=/Track.png alt="Description of a Hackathon challenge" />
+
 
 # Live Demo
 A demo of the front end portion of this app is in the following link:
