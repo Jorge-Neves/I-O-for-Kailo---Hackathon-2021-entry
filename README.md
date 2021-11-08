@@ -19,7 +19,13 @@ Our team named I/O for Kailo chose the following track:
 # Live Demo
 A demo of the front end portion of this app is in the following link:
 </br>
-<a href="https://io-for-kailo-hackathon-2021-frontend.netlify.app/" target="_blank">https://io-for-kailo-hackathon-2021-frontend.netlify.app/</a>
+<a href="https://io-for-kailo-hackathon-2021-frontend.netlify.app/" target="_blank">Kailo</a>
+
+
+# What is Kailo?
+
+<a href="https://docs.google.com/presentation/d/1-t8R4tACkOrBJf0cQANPqirhLgtOu8tIP6iavO6R_es/edit?usp=sharing" target="_blank">Kailo - Presentation</a>
+
 
 
 # Technologies
