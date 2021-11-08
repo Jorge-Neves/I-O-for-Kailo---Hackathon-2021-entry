@@ -41,7 +41,7 @@ email: avr.venancio@gmail.com
 linkedIn: https://www.linkedin.com/in/anavrvenancio/ 
 
 ## Kara Keddie
-email: 
+email: Kara.keddie@hotmail.com 
 <br>
 linkedIn: https://www.linkedin.com/in/kara-keddie/
 
