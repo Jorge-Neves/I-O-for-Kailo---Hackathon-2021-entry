@@ -17,6 +17,7 @@ web application from scratch and we fully deployed it. High Noon is a productivi
 that was designed with ADHD individuals in mind. This shows in the welcoming UI choices
 that don't overwhelm the user with information nor options.
 
+<a href="https://www.comprometidosporelfuturo.com/" target="_blank">Boehringer Ingelheim's 2021 Hackathon comprometidos por el futuro (empreendimento social)</a>
 
 # Live Demo
 A demo of the front end portion of this app is in the following link:
