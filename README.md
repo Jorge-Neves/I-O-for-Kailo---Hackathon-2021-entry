@@ -11,53 +11,18 @@ Kara Keddie
 Paulo Santos
 
 # Description
-High Noon was the final project of the bootcamp and required us to put into practice all 
-we learned in the course of the 9 week curriculum. To do so we developed a MERN stack
-web application from scratch and we fully deployed it. High Noon is a productivity app
-that was designed with ADHD individuals in mind. This shows in the welcoming UI choices
-that don't overwhelm the user with information nor options.
+From October 22nd to October 24th Boehringer Ingelheim hosted an online hackathon which is a competetion where various teams work for 48 hours to develop a tech solution to challenges regarding human anad animal health.
 
-<a href="https://www.comprometidosporelfuturo.com/" target="_blank">Boehringer Ingelheim's 2021 Hackathon comprometidos por el futuro (empreendimento social)</a>
+<a href="https://www.comprometidosporelfuturo.com/" target="_blank">Boehringer Ingelheim's 2021 Hackathon "comprometidos por el futuro (empreendimento social)"</a>
+
+Our team named I/O for Kailo chose the following track:
+
 
 # Live Demo
 A demo of the front end portion of this app is in the following link:
 </br>
 <a href="https://io-for-kailo-hackathon-2021-frontend.netlify.app/" target="_blank">https://io-for-kailo-hackathon-2021-frontend.netlify.app/</a>
 
-# Front End
-This repository holds all of the code relating to the front end portion of the app. to read about the back end portion access the following link:
-<br>
-https://github.com/Jorge-Neves/High-Noon-API
-
-
-
-# Functionalities
-
-## CRUD
-The user is able to perform all CRUD operations on the tasks/skills/habits that he wishes to track.
-
-## Stats
-In order to have a visual representation of the user's progress when acecessing stats the user will be present with a doughnut diagram (for tasks and skills) and a list of dates for skills, so that they can then evaluate which areas need improving in their productivity journey.
-
-
-# Back End
-This repository holds all of the code relating to the front end portion of the app. to read about the back end portion access the following link:
-<br>
-https://github.com/Jorge-Neves/High-Noon-API
-
-##REST API
-Along side all the mongoose logic to store information in our database hosted on heroku. This repository also contains the REST api made with Express.js that connects both the front end and the back end.
-
-## MONGDB
-We used mongoDB for our database for this project.
-
-## Stats
-In order to have a visual representation of the user's progress when acecessing stats the user will be present with a doughnut diagram (for tasks and skills) and a list of dates for skills, so that they can then evaluate which areas need improving in their productivity journey.
-
-
-# Known Issues
-When editing existing tasks/skills/habits the web app takes an unsually long time to respond.
-Apologies this issue will be fixed in a later version.
 
 # Technologies
 Technologies
