@@ -4,11 +4,7 @@
  
 <img src=/DocumentationScreenshot2.png alt="Landing Page for Kailo Tracker web app" />
 
-## Made by 
-Ana Venâncio
-João Monteiro
-Kara Keddie
-Paulo Santos
+
 
 # Description
 From October 22nd to October 24th Boehringer Ingelheim hosted an online hackathon which is a competetion where various teams work for 48 hours to develop a tech solution to challenges regarding human anad animal health.
@@ -29,8 +25,8 @@ Technologies
 React | NodeJS | Axios | Express | JavaScript | Bootstrap | HTML | CSS | Netlify | Heroku
 Chartjs | react-chartjs | react-simple-chatbot | MERN Stack
 
+# Made by 
 
-# Contacts
 ## Ana Venâncio
 email: 
 <br>
