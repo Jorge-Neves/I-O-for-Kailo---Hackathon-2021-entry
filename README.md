@@ -29,7 +29,7 @@ A demo of the front end portion of this app is in the following link:
 
 
 # Technologies
-Technologies
+
 React | NodeJS | Axios | Express | JavaScript | Bootstrap | HTML | CSS | Netlify | Heroku
 Chartjs | react-chartjs | react-simple-chatbot | MERN Stack
 
