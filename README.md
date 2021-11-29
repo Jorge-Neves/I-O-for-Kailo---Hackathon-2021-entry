@@ -33,6 +33,8 @@ A demo of the front end portion of this app is in the following link:
 React | NodeJS | Axios | Express | JavaScript | Bootstrap | HTML | CSS | Netlify | Heroku |
 Chartjs | react-chartjs | react-simple-chatbot | MERN Stack
 
+<p align="right">[<a href="#top">back to top</a>]</p>
+
 # Made by 
 
 ## Ana Venâncio
@@ -54,6 +56,8 @@ linkedIn: https://linkedin.com/in/joamonteiro
 email: paulo.jorge.ngs@gmail.com
 <br>
 linkedIn: www.linkedin.com/in/paulo-j-santos
+
+<p align="right">[<a href="#top">back to top</a>]</p>
 
 <br>
 <br>
